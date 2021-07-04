@@ -1,0 +1,29 @@
+.bg-color {
+  background-color: #84d5cc;
+}
+
+.hero {
+  background-color: #71dde925;
+  padding-top: 5rem;
+}
+
+body {
+  min-height: 5000px;
+}
+
+#Myskils {
+  background-color: #71dde925;
+}
+
+#Myskils .carousel-item img {
+  height: 500px;
+  padding-bottom: 2rem;
+}
+
+#contact {
+  background-color: #71dde925;
+}
+
+section {
+  padding-top: 5rem;
+}
